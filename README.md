@@ -9,7 +9,6 @@ Full-Stack Developer passionate about building scalable web applications
 **Database:** PostgreSQL, MongoDB, Redis
 **DevOps:** Docker, AWS, CI/CD
 
-## 📊 GitHub Stats
 ## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanu-ejeta&show_icons=true&theme=radical)
