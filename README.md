@@ -10,7 +10,13 @@ Full-Stack Developer passionate about building scalable web applications
 **DevOps:** Docker, AWS, CI/CD
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=birhanu-ejeta&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=birhanu-ejeta&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=birhanu-ejeta&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=birhanu-ejeta&layout=compact&theme=radical)
 
 ## 🔗 Connect with Me
 - LinkedIn: [your-profile]
